@@ -148,3 +148,10 @@ div.fadeIn {
       transform: translateY(0px);
     }
   }
+
+  @media only screen and (max-width: 644px) {
+    *{
+      display: none;
+      
+    }
+}
